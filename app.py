@@ -139,7 +139,7 @@ def processar_triagem():
         # ----------------------------------------------------------------------
 
         payload = {
-            "model": "poolside/laguna-s-2.1:free",
+            "model": "nvidia/nemotron-3.5-super-vl:free",
             "messages": [
                 {
                     "role": "system",

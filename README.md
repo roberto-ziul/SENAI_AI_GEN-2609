@@ -1,3 +1,5 @@
-Repositório dedicado aos cursos de tecnologia do SENAI
-
-1. IA GEN 2609 - Programação em Inteligência Artificial Generativa (40h)
+Repositório dedicado aos códigos do curso de Programação em Inteligência Artificial Generativa 
+Instituição: SENAI Ary Torres
+Código: IA GEN 2609
+Carga horária: (40h)
+Aulas ministradas pelo professor: Alexandre Correa Gomes
